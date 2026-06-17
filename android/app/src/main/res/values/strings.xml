@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">КВЕСТ</string>
+    <string name="title_activity_main">КВЕСТ</string>
+    <string name="package_name">com.lifequest.app</string>
+    <string name="custom_url_scheme">com.lifequest.app</string>
+</resources>
